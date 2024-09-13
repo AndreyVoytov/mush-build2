@@ -1,0 +1,111 @@
+{
+  "frames": {
+    "load2/loadImage.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 960,
+        "h": 1800
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 1800
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 1800
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "load2/gameName.png": {
+      "frame": {
+        "x": 1,
+        "y": 1803,
+        "w": 526,
+        "h": 196
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 26,
+        "w": 526,
+        "h": 196
+      },
+      "sourceSize": {
+        "w": 613,
+        "h": 248
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "load2/loader.png": {
+      "frame": {
+        "x": 529,
+        "y": 1803,
+        "w": 638,
+        "h": 107
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 638,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 638,
+        "h": 107
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "load2/loaderBg.png": {
+      "frame": {
+        "x": 529,
+        "y": 1912,
+        "w": 637,
+        "h": 107
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 637,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 637,
+        "h": 107
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "load2.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1168,
+      "h": 2020
+    },
+    "scale": 1
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "frames": {
+    "campaignMermaid/bottomPanel.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 750,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 750,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 750,
+        "h": 296
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignMermaid/mermaidActionBg.png": {
+      "frame": {
+        "x": 753,
+        "y": 1,
+        "w": 658,
+        "h": 670
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 658,
+        "h": 670
+      },
+      "sourceSize": {
+        "w": 658,
+        "h": 670
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignMermaid/mermaidBig.png": {
+      "frame": {
+        "x": 1413,
+        "y": 1,
+        "w": 484,
+        "h": 528
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 484,
+        "h": 528
+      },
+      "sourceSize": {
+        "w": 484,
+        "h": 528
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignMermaid/shineBlue.png": {
+      "frame": {
+        "x": 1413,
+        "y": 531,
+        "w": 233,
+        "h": 229
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 233,
+        "h": 229
+      },
+      "sourceSize": {
+        "w": 233,
+        "h": 229
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignMermaid/shellDecor.png": {
+      "frame": {
+        "x": 1648,
+        "y": 531,
+        "w": 229,
+        "h": 123
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 229,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 229,
+        "h": 123
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignMermaid/chestBlue.png": {
+      "frame": {
+        "x": 1879,
+        "y": 531,
+        "w": 149,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 149,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 149,
+        "h": 121
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignMermaid/mermaidIconCampaign.png": {
+      "frame": {
+        "x": 1648,
+        "y": 656,
+        "w": 171,
+        "h": 185
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 6,
+        "w": 171,
+        "h": 185
+      },
+      "sourceSize": {
+        "w": 216,
+        "h": 243
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "campaignMermaid.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2029,
+      "h": 842
+    },
+    "scale": 1
+  }
+}
