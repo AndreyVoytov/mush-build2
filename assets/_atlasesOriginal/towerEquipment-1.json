@@ -1,0 +1,1335 @@
+{
+  "frames": {
+    "towerEquipment/mushrooms2.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 522,
+        "h": 199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 12,
+        "y": 28,
+        "w": 522,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/windows/windows3light.png": {
+      "frame": {
+        "x": 525,
+        "y": 1,
+        "w": 520,
+        "h": 222
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 3,
+        "w": 520,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 543,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/koloski.png": {
+      "frame": {
+        "x": 1,
+        "y": 202,
+        "w": 517,
+        "h": 179
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 59,
+        "w": 517,
+        "h": 179
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/boilers.png": {
+      "frame": {
+        "x": 1047,
+        "y": 1,
+        "w": 500,
+        "h": 199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 39,
+        "w": 500,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/magicGarden2.png": {
+      "frame": {
+        "x": 1549,
+        "y": 1,
+        "w": 488,
+        "h": 204
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 55,
+        "y": 22,
+        "w": 488,
+        "h": 204
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/emeraldHall1.png": {
+      "frame": {
+        "x": 1047,
+        "y": 202,
+        "w": 500,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 98,
+        "w": 500,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/hives.png": {
+      "frame": {
+        "x": 1549,
+        "y": 207,
+        "w": 488,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 17,
+        "w": 488,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/candyStage2.png": {
+      "frame": {
+        "x": 1549,
+        "y": 330,
+        "w": 477,
+        "h": 226
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 29,
+        "y": 0,
+        "w": 477,
+        "h": 226
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/windows/windows1light.png": {
+      "frame": {
+        "x": 520,
+        "y": 225,
+        "w": 469,
+        "h": 221
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 22,
+        "y": 5,
+        "w": 469,
+        "h": 221
+      },
+      "sourceSize": {
+        "w": 543,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/hiveChairs.png": {
+      "frame": {
+        "x": 1,
+        "y": 383,
+        "w": 469,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 53,
+        "y": 112,
+        "w": 469,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/windows/windows2back.png": {
+      "frame": {
+        "x": 991,
+        "y": 332,
+        "w": 380,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 32,
+        "w": 380,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 543,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/towerSign.png": {
+      "frame": {
+        "x": 1373,
+        "y": 332,
+        "w": 174,
+        "h": 200
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 23,
+        "y": 100,
+        "w": 174,
+        "h": 200
+      },
+      "sourceSize": {
+        "w": 211,
+        "h": 356
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/velvetHall2.png": {
+      "frame": {
+        "x": 991,
+        "y": 440,
+        "w": 373,
+        "h": 212
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 102,
+        "y": 16,
+        "w": 373,
+        "h": 212
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/forge1.png": {
+      "frame": {
+        "x": 1366,
+        "y": 534,
+        "w": 177,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 132,
+        "w": 177,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 250
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/aquaThrone.png": {
+      "frame": {
+        "x": 1545,
+        "y": 558,
+        "w": 371,
+        "h": 218
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 106,
+        "y": 20,
+        "w": 371,
+        "h": 218
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/towerPipe.png": {
+      "frame": {
+        "x": 1918,
+        "y": 558,
+        "w": 129,
+        "h": 203
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 69,
+        "y": 99,
+        "w": 129,
+        "h": 203
+      },
+      "sourceSize": {
+        "w": 211,
+        "h": 356
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/towerBalcony.png": {
+      "frame": {
+        "x": 1918,
+        "y": 763,
+        "w": 128,
+        "h": 241
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 70,
+        "y": 104,
+        "w": 128,
+        "h": 241
+      },
+      "sourceSize": {
+        "w": 211,
+        "h": 356
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/nestMusic.png": {
+      "frame": {
+        "x": 1366,
+        "y": 647,
+        "w": 175,
+        "h": 179
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 64,
+        "y": 35,
+        "w": 175,
+        "h": 179
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/aquaFishes.png": {
+      "frame": {
+        "x": 1543,
+        "y": 778,
+        "w": 371,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 106,
+        "y": 41,
+        "w": 371,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/furnaceTavern.png": {
+      "frame": {
+        "x": 1543,
+        "y": 835,
+        "w": 370,
+        "h": 172
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 67,
+        "y": 23,
+        "w": 370,
+        "h": 172
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/amberHall3.png": {
+      "frame": {
+        "x": 472,
+        "y": 448,
+        "w": 325,
+        "h": 103
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 119,
+        "y": 25,
+        "w": 325,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/barrels1.png": {
+      "frame": {
+        "x": 799,
+        "y": 448,
+        "w": 182,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 333,
+        "y": 92,
+        "w": 182,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 543,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/windows/windows3back.png": {
+      "frame": {
+        "x": 1,
+        "y": 511,
+        "w": 322,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 108,
+        "y": 30,
+        "w": 322,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 543,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/lillys.png": {
+      "frame": {
+        "x": 325,
+        "y": 511,
+        "w": 145,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 211,
+        "y": 70,
+        "w": 145,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/notesGreen1.png": {
+      "frame": {
+        "x": 1,
+        "y": 618,
+        "w": 315,
+        "h": 158
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 10,
+        "w": 315,
+        "h": 158
+      },
+      "sourceSize": {
+        "w": 1060,
+        "h": 191
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/nest.png": {
+      "frame": {
+        "x": 472,
+        "y": 553,
+        "w": 309,
+        "h": 199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 213,
+        "y": 32,
+        "w": 309,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/aquaAnchor.png": {
+      "frame": {
+        "x": 318,
+        "y": 665,
+        "w": 149,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 383,
+        "y": 82,
+        "w": 149,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/workshop3.png": {
+      "frame": {
+        "x": 783,
+        "y": 584,
+        "w": 203,
+        "h": 208
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 349,
+        "y": 29,
+        "w": 203,
+        "h": 208
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/nestWithEgg.png": {
+      "frame": {
+        "x": 469,
+        "y": 754,
+        "w": 309,
+        "h": 199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 213,
+        "y": 32,
+        "w": 309,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/windows/windows1back.png": {
+      "frame": {
+        "x": 1,
+        "y": 778,
+        "w": 293,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 125,
+        "y": 29,
+        "w": 293,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 543,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/boiler.png": {
+      "frame": {
+        "x": 296,
+        "y": 805,
+        "w": 170,
+        "h": 163
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 211,
+        "y": 58,
+        "w": 170,
+        "h": 163
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/windows/windows2.png": {
+      "frame": {
+        "x": 1,
+        "y": 899,
+        "w": 291,
+        "h": 123
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 122,
+        "y": 22,
+        "w": 291,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 543,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/cosmos2.png": {
+      "frame": {
+        "x": 988,
+        "y": 654,
+        "w": 286,
+        "h": 238
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 131,
+        "y": 0,
+        "w": 286,
+        "h": 238
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/grimoire.png": {
+      "frame": {
+        "x": 780,
+        "y": 794,
+        "w": 200,
+        "h": 199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 164,
+        "y": 27,
+        "w": 200,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 543,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/nestLight.png": {
+      "frame": {
+        "x": 1276,
+        "y": 828,
+        "w": 256,
+        "h": 212
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 226,
+        "y": 18,
+        "w": 256,
+        "h": 212
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/safe.png": {
+      "frame": {
+        "x": 1276,
+        "y": 1042,
+        "w": 254,
+        "h": 213
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 134,
+        "y": 10,
+        "w": 254,
+        "h": 213
+      },
+      "sourceSize": {
+        "w": 543,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/museum2.png": {
+      "frame": {
+        "x": 982,
+        "y": 894,
+        "w": 273,
+        "h": 204
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 145,
+        "y": 22,
+        "w": 273,
+        "h": 204
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/tron.png": {
+      "frame": {
+        "x": 982,
+        "y": 1100,
+        "w": 235,
+        "h": 198
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 133,
+        "y": 28,
+        "w": 235,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 543,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/knightTable.png": {
+      "frame": {
+        "x": 468,
+        "y": 955,
+        "w": 235,
+        "h": 182
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 42,
+        "y": 56,
+        "w": 235,
+        "h": 182
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/forge3.png": {
+      "frame": {
+        "x": 294,
+        "y": 995,
+        "w": 168,
+        "h": 151
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 373,
+        "y": 77,
+        "w": 168,
+        "h": 151
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 250
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/workshop2.png": {
+      "frame": {
+        "x": 705,
+        "y": 995,
+        "w": 224,
+        "h": 226
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 179,
+        "y": 0,
+        "w": 224,
+        "h": 226
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/hiveFlowers.png": {
+      "frame": {
+        "x": 464,
+        "y": 1139,
+        "w": 222,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 180,
+        "y": 119,
+        "w": 222,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/cosmos3.png": {
+      "frame": {
+        "x": 1,
+        "y": 1024,
+        "w": 217,
+        "h": 197
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 316,
+        "y": 20,
+        "w": 217,
+        "h": 197
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/amberHall2.png": {
+      "frame": {
+        "x": 220,
+        "y": 1148,
+        "w": 217,
+        "h": 178
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 177,
+        "y": 48,
+        "w": 217,
+        "h": 178
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/forestHeartEquip.png": {
+      "frame": {
+        "x": 1,
+        "y": 1223,
+        "w": 217,
+        "h": 143
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 299,
+        "y": 60,
+        "w": 217,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 543,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/wallMap.png": {
+      "frame": {
+        "x": 688,
+        "y": 1223,
+        "w": 200,
+        "h": 199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 164,
+        "y": 27,
+        "w": 200,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 543,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/boilerRight.png": {
+      "frame": {
+        "x": 439,
+        "y": 1300,
+        "w": 199,
+        "h": 149
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 343,
+        "y": 77,
+        "w": 199,
+        "h": 149
+      },
+      "sourceSize": {
+        "w": 543,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/bookcase2.png": {
+      "frame": {
+        "x": 220,
+        "y": 1328,
+        "w": 197,
+        "h": 198
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 333,
+        "y": 28,
+        "w": 197,
+        "h": 198
+      },
+      "sourceSize": {
+        "w": 543,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/emeraldHall2.png": {
+      "frame": {
+        "x": 1,
+        "y": 1368,
+        "w": 193,
+        "h": 189
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 197,
+        "y": 37,
+        "w": 193,
+        "h": 189
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/chessWhite.png": {
+      "frame": {
+        "x": 1,
+        "y": 1559,
+        "w": 138,
+        "h": 194
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 61,
+        "y": 26,
+        "w": 138,
+        "h": 194
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/museum3.png": {
+      "frame": {
+        "x": 1,
+        "y": 1755,
+        "w": 193,
+        "h": 160
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 360,
+        "y": 32,
+        "w": 193,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/chessBanner.png": {
+      "frame": {
+        "x": 141,
+        "y": 1559,
+        "w": 160,
+        "h": 159
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 204,
+        "y": 26,
+        "w": 160,
+        "h": 159
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/chest1.png": {
+      "frame": {
+        "x": 196,
+        "y": 1720,
+        "w": 191,
+        "h": 135
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 90,
+        "w": 191,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 543,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/barrels2.png": {
+      "frame": {
+        "x": 303,
+        "y": 1528,
+        "w": 182,
+        "h": 133
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 37,
+        "y": 93,
+        "w": 182,
+        "h": 133
+      },
+      "sourceSize": {
+        "w": 543,
+        "h": 226
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "towerEquipment/muka.png": {
+      "frame": {
+        "x": 196,
+        "y": 1857,
+        "w": 149,
+        "h": 132
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 45,
+        "y": 87,
+        "w": 149,
+        "h": 132
+      },
+      "sourceSize": {
+        "w": 568,
+        "h": 238
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "towerEquipment-1.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 1990
+    },
+    "scale": 1
+  }
+}

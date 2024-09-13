@@ -1,0 +1,39 @@
+{
+  "frames": {
+    "miscTutorial0/mainCycle.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 487,
+        "h": 545
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 8,
+        "w": 487,
+        "h": 545
+      },
+      "sourceSize": {
+        "w": 494,
+        "h": 557
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "miscTutorial0.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 489,
+      "h": 547
+    },
+    "scale": 1
+  }
+}

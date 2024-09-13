@@ -1,0 +1,111 @@
+{
+  "frames": {
+    "monster4/decor4.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 757,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 89,
+        "y": 80,
+        "w": 757,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 405
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "monster4/monster4.png": {
+      "frame": {
+        "x": 760,
+        "y": 1,
+        "w": 575,
+        "h": 413
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 182,
+        "y": 107,
+        "w": 575,
+        "h": 413
+      },
+      "sourceSize": {
+        "w": 927,
+        "h": 551
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "monster4/portrait4.png": {
+      "frame": {
+        "x": 1337,
+        "y": 1,
+        "w": 286,
+        "h": 279
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 286,
+        "h": 279
+      },
+      "sourceSize": {
+        "w": 286,
+        "h": 279
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "monster4/animal4.png": {
+      "frame": {
+        "x": 1625,
+        "y": 1,
+        "w": 78,
+        "h": 75
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 11,
+        "y": 0,
+        "w": 78,
+        "h": 75
+      },
+      "sourceSize": {
+        "w": 100,
+        "h": 75
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "monster4.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1704,
+      "h": 415
+    },
+    "scale": 1
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "frames": {
+    "baseCompTower/statueBasis.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 710,
+        "h": 180
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 710,
+        "h": 180
+      },
+      "sourceSize": {
+        "w": 710,
+        "h": 180
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "baseCompTower/charactersGray/mermaidSmall.png": {
+      "frame": {
+        "x": 713,
+        "y": 1,
+        "w": 230,
+        "h": 288
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 6,
+        "w": 230,
+        "h": 288
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "baseCompTower/charactersGray/gnomesSmall.png": {
+      "frame": {
+        "x": 1,
+        "y": 183,
+        "w": 229,
+        "h": 261
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 51,
+        "w": 229,
+        "h": 261
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "baseCompTower/charactersGray/knightSmall.png": {
+      "frame": {
+        "x": 232,
+        "y": 183,
+        "w": 228,
+        "h": 261
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 44,
+        "w": 228,
+        "h": 261
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "baseCompTower/charactersGray/dragonSmall.png": {
+      "frame": {
+        "x": 462,
+        "y": 183,
+        "w": 210,
+        "h": 271
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 2,
+        "y": 21,
+        "w": 210,
+        "h": 271
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "baseCompTower/charactersGray/pathfinderSmall.png": {
+      "frame": {
+        "x": 1,
+        "y": 446,
+        "w": 201,
+        "h": 282
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 33,
+        "w": 201,
+        "h": 282
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "baseCompTower/charactersGray/jarpticSmall.png": {
+      "frame": {
+        "x": 204,
+        "y": 446,
+        "w": 167,
+        "h": 279
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 32,
+        "y": 18,
+        "w": 167,
+        "h": 279
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "baseCompTower/charactersGray/kolobokSmall.png": {
+      "frame": {
+        "x": 945,
+        "y": 1,
+        "w": 156,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 38,
+        "y": 86,
+        "w": 156,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "baseCompTower/charactersGray/womanSmall.png": {
+      "frame": {
+        "x": 1103,
+        "y": 1,
+        "w": 128,
+        "h": 262
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 58,
+        "y": 34,
+        "w": 128,
+        "h": 262
+      },
+      "sourceSize": {
+        "w": 230,
+        "h": 328
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "baseCompTower.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1232,
+      "h": 729
+    },
+    "scale": 1
+  }
+}

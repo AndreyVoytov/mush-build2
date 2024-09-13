@@ -1,0 +1,303 @@
+{
+  "frames": {
+    "campaignLuckyStrike/luckyHeader.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 770,
+        "h": 365
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 770,
+        "h": 365
+      },
+      "sourceSize": {
+        "w": 770,
+        "h": 365
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignLuckyStrike/speachBubble.png": {
+      "frame": {
+        "x": 773,
+        "y": 1,
+        "w": 385,
+        "h": 264
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 385,
+        "h": 264
+      },
+      "sourceSize": {
+        "w": 385,
+        "h": 264
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignLuckyStrike/squareGreenButton.png": {
+      "frame": {
+        "x": 1160,
+        "y": 1,
+        "w": 227,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 227,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 227,
+        "h": 173
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignLuckyStrike/luckIcon.png": {
+      "frame": {
+        "x": 1389,
+        "y": 1,
+        "w": 216,
+        "h": 191
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 14,
+        "w": 216,
+        "h": 191
+      },
+      "sourceSize": {
+        "w": 218,
+        "h": 243
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignLuckyStrike/fortuneMeter.png": {
+      "frame": {
+        "x": 1160,
+        "y": 176,
+        "w": 213,
+        "h": 417
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 5,
+        "y": 21,
+        "w": 213,
+        "h": 417
+      },
+      "sourceSize": {
+        "w": 238,
+        "h": 457
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignLuckyStrike/luckyBubbleForest.png": {
+      "frame": {
+        "x": 773,
+        "y": 267,
+        "w": 174,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 174,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 174,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignLuckyStrike/blueNote.png": {
+      "frame": {
+        "x": 949,
+        "y": 267,
+        "w": 165,
+        "h": 140
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 165,
+        "h": 140
+      },
+      "sourceSize": {
+        "w": 165,
+        "h": 140
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignLuckyStrike/coinStroke.png": {
+      "frame": {
+        "x": 1607,
+        "y": 1,
+        "w": 158,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 20,
+        "y": 14,
+        "w": 158,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 194,
+        "h": 178
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignLuckyStrike/woodenLuckyBubble.png": {
+      "frame": {
+        "x": 1767,
+        "y": 1,
+        "w": 150,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 25,
+        "w": 150,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 197,
+        "h": 132
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignLuckyStrike/fortuneMeterProgress.png": {
+      "frame": {
+        "x": 1919,
+        "y": 1,
+        "w": 109,
+        "h": 538
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 109,
+        "h": 538
+      },
+      "sourceSize": {
+        "w": 109,
+        "h": 538
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignLuckyStrike/woodenLuckyBubbleChecked.png": {
+      "frame": {
+        "x": 1767,
+        "y": 90,
+        "w": 150,
+        "h": 87
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 25,
+        "w": 150,
+        "h": 87
+      },
+      "sourceSize": {
+        "w": 197,
+        "h": 132
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "campaignLuckyStrike/checkStroke.png": {
+      "frame": {
+        "x": 1607,
+        "y": 150,
+        "w": 92,
+        "h": 79
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1,
+        "y": 7,
+        "w": 92,
+        "h": 79
+      },
+      "sourceSize": {
+        "w": 94,
+        "h": 94
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "campaignLuckyStrike.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2029,
+      "h": 594
+    },
+    "scale": 1
+  }
+}
